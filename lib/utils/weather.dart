@@ -8,7 +8,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:havadurumu/utils/location.dart';
 import 'package:http/http.dart';
 
-const apiKey="acf45a64aa1025ee8f3b38e14b59a10e";
+const apiKey=""; //Kişisel APIKey Girilecek
 
 
 class WeatherDisplayData{
