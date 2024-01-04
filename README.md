@@ -1,4 +1,7 @@
 # havadurumu
+# instagram: @fazilahmetgur
+# x : @fazilahmetgur
+# linkedln : @fazilahmetgur
 
 A new Flutter project.
 
